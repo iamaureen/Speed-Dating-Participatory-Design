@@ -1,0 +1,11 @@
+1.open textfile with <team_number><dialogue_number>
+for example team1dialogue1.txt
+
+2.write dialogue as seen in the slides in the same format
+for example:
+human:hii
+cozmo:bye
+
+3.save the textfile
+
+4.click the icon with the same text filename
