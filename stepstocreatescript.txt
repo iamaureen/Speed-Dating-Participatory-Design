@@ -1,0 +1,24 @@
+Steps:
+
+1. press command+space to open texteditor. Take a new document. 
+
+2. type the following command:
+
+#!/bin/bash
+
+/usr/local/bin/python3 $(pwd)/Documents/PD3/Speed-Dating-Participatory-Design/animatecozmo.py
+
+The first line indicates this is a bash script. 
+Second line invokes python and runs the python script specified by the directory
+
+3. press command+S to save it. Give it a name, for example PyScript. Do not use .txt or any other extension. Also UNCHECK the option "if no extension provided, use .txt".
+
+4. Open terminal and go to the directory where you saved the file PyScript. 
+
+5. type and enter the following command:
+
+chmod 700 PyScript 
+
+This will convert the file into an executable. 
+
+6. You can run the script from terminal by using command ./PyScript or by simple double clicking on the script file.  
