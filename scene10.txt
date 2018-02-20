@@ -3,4 +3,4 @@ Cozmo:It is great to see you back! It was a great response.
 human:Thanks
 Cozmo:You could try another one, this will really help your friends
 human:okay I will
-Cozmo:you are great
+Cozmo:That’s nice of you.

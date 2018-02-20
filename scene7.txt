@@ -1,4 +1,8 @@
 human:cozmo
-Cozmo:Victoria. It’s great that you are trying to helping your friends
-human:Thanks
-Cozmo:But most of the answers were not correct. You need to work harder
+Cozmo:Hey Carlos, good job on your homework.
+human:thanks
+Cozmo:Some of your friends posted questions on homework. Try answering some.
+human:No problem, but which one?
+Cozmo:you answered question 3 pretty quickly. Go try that one
+human:okay
+Cozmo:you are really helpful

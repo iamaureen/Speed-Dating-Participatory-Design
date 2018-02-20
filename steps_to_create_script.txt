@@ -6,7 +6,7 @@ Steps:
 
 #!/bin/bash
 
-/usr/local/bin/python3 $(pwd)/Documents/PD3/Speed-Dating-Participatory-Design/animatecozmo.py
+/usr/local/bin/python3 $(pwd)/Documents/Cozmo/TalkToCozmo/animatecozmo.py
 
 The first line indicates this is a bash script. 
 Second line invokes python and runs the python script specified by the directory

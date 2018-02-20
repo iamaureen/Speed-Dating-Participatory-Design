@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:Hey there are some questions that you can answer since you have completed the homework
-kim:Yeah, but i don’t feel like helping them.
-Cozmo:but your friend needs help
-Kim:Somebody will help
-Cozmo:its a great practice to learn too
+Cozmo:You were inactive for some time
+human:I am not following the class
+Cozmo:There are some great posts that can help you to come to the track.
+human:That’s really helpful
+cozmo:Start from question 1, it’s really easy.

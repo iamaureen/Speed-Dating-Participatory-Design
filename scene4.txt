@@ -1,4 +1,7 @@
-human:Cozmo
-Cozmo:Hey Victoria, your answer is correct and very helpful, but it’s a bit aggressive.
-human:let me rephrase it
-Cozmo:Much better!
+human:cozmo
+Cozmo:Why are you skipping questions
+human:I don’t understand the topic fully
+Cozmo:You can talk with Carlos, He finished his homework already, Maybe he can help
+human:Okay.
+Cozmo:This way you can learn from each other
+

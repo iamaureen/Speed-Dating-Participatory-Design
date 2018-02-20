@@ -1,8 +1,7 @@
 human:cozmo
-Cozmo:Hey Carlos, good job on your homework.
-human:thanks
-Cozmo:Some of your friends posted questions on homework. Try answering some.
-human:but which one
-Cozmo:you answered question 3 pretty quickly. Go try that one
-human:okay
-Cozmo:good job
+Cozmo:Your reply can stop Jen from asking questions, kim.
+human:What am I supposed to do? I answered them already.
+Cozmo:She is trying to learn too. Maybe guide her to the materials or explain again.
+human:okay, i will
+Cozmo:That will be really helpful
+

@@ -1,0 +1,2 @@
+human:heloo
+cozmo:bye

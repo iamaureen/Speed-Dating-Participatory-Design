@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:Victoria, that’s rude. It may discourage your friend.
-human:I don’t think this is rude. How do you want me to say
-Cozmo:It would be nice if you could say it politely.
-human:okay the solution is easy multiply both sides with two.
-Cozmo:Great!
+Cozmo:Victoria, it’s great that you are trying to helping your friends
+human:Thanks
+Cozmo:But most of the answers were not correct. You should check again.
+human:The last topics were hard. I need to revise them again
+Cozmo:That’s a great idea.

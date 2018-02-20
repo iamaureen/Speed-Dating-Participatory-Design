@@ -1,0 +1,9 @@
+Steps:
+
+1. Install Cozmo App in the device (i.e. ipad)
+2. To connect with Cozmo robot:
+- lift Cozmo robots' aram, it will show a password, note it down
+- go to the network connection of the device (i.e. ipad) and connect with Cozmo using the password
+3. Open the app, and press connect
+4. To run codes, connect the device with a laptop using a cable and choose the sdk mode in the app
+5. run codes through terminal or script

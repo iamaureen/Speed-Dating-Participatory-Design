@@ -59,3 +59,19 @@
 19-2-2018 17:43:54# Cozmo says: Great!
 19-2-2018 17:49:24# Conversation ended.
 19-2-2018 18:53:41# Conversation started.
+20-2-2018 21:22:59# Conversation started.
+20-2-2018 21:23:7# Human says: hello
+20-2-2018 21:23:7# Cozmo says: bye
+20-2-2018 21:23:13# Human says: hello
+20-2-2018 21:23:13# Cozmo says: bye
+20-2-2018 21:23:20# Conversation ended.
+20-2-2018 21:24:39# Conversation started.
+20-2-2018 21:24:45# Human says: helo
+20-2-2018 21:24:45# Cozmo says: bye
+20-2-2018 21:24:56# Human says: qui
+20-2-2018 21:24:56# Cozmo says: I did not understand, please repeat
+20-2-2018 21:25:5# Conversation ended.
+20-2-2018 21:27:3# Conversation started.
+20-2-2018 21:27:17# Human says: hello
+20-2-2018 21:27:17# Cozmo says: this is file 2
+20-2-2018 21:27:27# Conversation ended.

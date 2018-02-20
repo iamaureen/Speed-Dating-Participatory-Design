@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:Why are you skipping questions
-human:I don’t understand the topic fully
-Cozmo:You can talk with Carlos. He finished his homework already. Maybe he can help?
-human:Okay.
-Cozmo:great
+Cozmo:Hey there are some questions that you can answer since you have completed the homework
+human:Yeah, but i don’t feel like helping them.
+Cozmo:but your friend needs help
+human:Somebody will help
+Cozmo:it is a great practice to learn too
