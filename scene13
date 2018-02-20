@@ -1,0 +1,4 @@
+#!/bin/bash
+
+file='scene13.txt'
+/usr/local/bin/python3 $(pwd)/Documents/Cozmo/TalkToCozmo/talkcozmo.py $(pwd)/Documents/Cozmo/TalkToCozmo/$file
