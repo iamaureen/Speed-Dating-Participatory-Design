@@ -1,0 +1,6 @@
+human:Cozmo
+Cozmo:Carlos, are you sure about the answer
+human:yes. Why?
+Cozmo:It’s actually wrong. Do you want to try again?
+Carlos:ok
+Cozmo:great

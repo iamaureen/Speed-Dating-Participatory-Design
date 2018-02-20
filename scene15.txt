@@ -1,0 +1,6 @@
+human:cozmo
+Cozmo:Hey there are some questions that you can answer since you have completed the homework
+kim:Yeah, but i don’t feel like helping them.
+Cozmo:but your friend needs help
+Kim:Somebody will help
+Cozmo:its a great practice to learn too

@@ -1,0 +1,2 @@
+human:cozmo
+Cozmo:Hey Kim. If you’ve tried explaining it a few times, how about trying to understand better where Jen is coming from, and then trying to help her from there?

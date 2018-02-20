@@ -1,0 +1,6 @@
+human:cozmo
+Cozmo:Your answer is short. You may want to explain Megan HOW you got to that answer
+human:I don’t know how to explain this
+Cozmo:try explaining the steps
+human:first step is to multiply 4 on both sides, like this?
+Cozmo:yes. Go on until you reach the answer

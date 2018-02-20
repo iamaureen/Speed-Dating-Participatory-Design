@@ -1,0 +1,4 @@
+human:cozmo
+Cozmo:Victoria. It’s great that you are trying to helping your friends
+human:Thanks
+Cozmo:But most of the answers were not correct. You need to work harder

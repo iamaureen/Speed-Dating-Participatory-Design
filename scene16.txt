@@ -1,0 +1,4 @@
+human:cozmo
+Cozmo:You were inactive for some time
+human:I am not following the class
+Cozmo:start from question 1, its really easy

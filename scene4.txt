@@ -1,0 +1,4 @@
+human:Cozmo
+Cozmo:Hey Victoria, your answer is correct and very helpful, but it’s a bit aggressive.
+human:let me rephrase it
+Cozmo:Much better!

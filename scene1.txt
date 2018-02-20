@@ -1,0 +1,5 @@
+human:Hey Megan. I believe the answer to that is 7 is to 8
+Cozmo:Hey James. Your answer seemed a bit short. Did you try explaining to Megan HOW you got to that answer
+human:Do I need to
+Cozmo:It may not be so obvious to other people
+human:Ok, I’ll write more about how I got to that answer
