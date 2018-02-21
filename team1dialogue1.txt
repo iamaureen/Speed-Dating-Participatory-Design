@@ -1,2 +1,5 @@
-human:heloo
-cozmo:bye
+human:I dont want to answer that stupid question
+cozmo:Thats not nice to say to your friends
+human:but I already answered it 4 times
+cozmo:but maybe they didnt hear you
+human:oh you are right

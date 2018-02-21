@@ -1,0 +1,4 @@
+#!/bin/bash
+
+file='talkcozmo_emo.txt'
+/usr/local/bin/python3 $(pwd)/Documents/Cozmo/TalkToCozmo/talkcozmo_emo.py $(pwd)/Documents/Cozmo/TalkToCozmo/$file

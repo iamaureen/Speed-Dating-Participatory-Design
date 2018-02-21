@@ -1,0 +1,8 @@
+human:happy
+Cozmo:I am Happy!<CodeLabHappy>
+human:Are you excited, cozmo?
+Cozmo:Yes!<CodeLabExcited>
+human:Sing a song for me!
+Cozmo:Anything for you!<Singing_100bpm>
+human:today is wednesday
+Cozmo:I know
