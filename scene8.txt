@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:Hey carlos why don’t you help your friends?
-human:yeah, i know
-cozmo:Why don’t you try this one?
-
-
+Cozmo:Your answer is short and you may want to explain to Megan HOW you got to that answer.
+human:I don’t know how to explain this
+cozmo:Start with explaining the steps
+human:The first step is to multiply 4 on both sides, like this?
+Cozmo:Yes. Go on until you reach the answer.

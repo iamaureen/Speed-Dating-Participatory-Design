@@ -1,6 +1,6 @@
 human:cozmo
 Cozmo:It is great to see you back! It was a great response.
-human:Thanks
+human:Thank you cosmo
 Cozmo:You could try another one, this will really help your friends
 human:okay I will
 Cozmo:That’s nice of you.

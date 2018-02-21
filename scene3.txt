@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:Victoria, it’s great that you are trying to helping your friends
-human:Thanks
-Cozmo:But most of the answers were not correct. You should check again.
-human:The last topics were hard. I need to revise them again
-Cozmo:That’s a great idea.
+Cozmo:Hi, Victoria! I think there are a few questions that you can help with.
+human:But why? I don’t really want to.
+Cozmo:Try to help your friends learn and you will benefit from it as well.
+human:I understand
+Cozmo:You can start with question 1.

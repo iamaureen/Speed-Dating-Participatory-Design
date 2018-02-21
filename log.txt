@@ -75,3 +75,24 @@
 20-2-2018 21:27:17# Human says: hello
 20-2-2018 21:27:17# Cozmo says: this is file 2
 20-2-2018 21:27:27# Conversation ended.
+21-2-2018 2:34:17# Conversation started.
+21-2-2018 2:34:26# Human says: okay the solution is easy multiply both sides with two
+21-2-2018 2:34:26# Cozmo says: Great!<CodeLabExcited>
+21-2-2018 2:35:19# Conversation started.
+21-2-2018 2:35:31# Human says: okay the solution is easy multiply both sides with two
+21-2-2018 2:35:31# Cozmo says: Great!<CodeLabExcited>
+21-2-2018 2:35:45# Human says: anime
+21-2-2018 2:35:45# Cozmo says: Victoria, that’s rude. It may discourage your friend.
+21-2-2018 2:36:0# Conversation ended.
+21-2-2018 2:38:53# Conversation started.
+21-2-2018 2:39:5# Human says: okay the solution is easy multiply both sides with two
+21-2-2018 2:39:5# Cozmo says: Great!<CodeLabExcited>
+21-2-2018 2:40:2# Conversation started.
+21-2-2018 2:40:5# Human says: Cosmo
+21-2-2018 2:40:5# Cozmo says: Victoria, that’s rude. It may discourage your friend.<CodeLabExcited>
+21-2-2018 2:40:38# Conversation started.
+21-2-2018 2:40:44# Human says: Cosmo
+21-2-2018 2:40:44# Cozmo says: Victoria, that’s rude. It may discourage your friend.<CodeLabExcited>
+21-2-2018 2:43:55# Conversation started.
+21-2-2018 2:43:59# Human says: Cosmo
+21-2-2018 2:43:59# Cozmo says: Victoria, that’s rude. It may discourage your friend.<CodeLabExcited>

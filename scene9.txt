@@ -1,7 +1,4 @@
 human:cozmo
-Cozmo:Your reply can stop Jen from asking questions, kim.
-human:What am I supposed to do? I answered them already.
-Cozmo:She is trying to learn too. Maybe guide her to the materials or explain again.
-human:okay, i will
-Cozmo:That will be really helpful
-
+Cozmo:Hey Kim, why don’t you help your friends?
+human:I don’t answer much to these
+Cozmo:But helping others will help you to learn too

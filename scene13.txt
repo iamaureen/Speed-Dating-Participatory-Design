@@ -1,6 +1,4 @@
 human:cozmo
-Cozmo:Your answer is short and You may want to explain Megan HOW you got to that answer
-human:I don’t know how to explain this
-Cozmo:Start with explaining the steps
-human:The first step is to multiply 4 on both sides, like this?
-Cozmo:Yes, Go on until you reach the answer.
+Cozmo:kim, do you want to try a worked out example to understand ratios?
+human:Yes. I am having trouble sunderstanding the concepts
+Cozmo:You can talk to your friends too

@@ -65,7 +65,7 @@ def mainLoop(robot: cozmo.robot.Robot):
         humanString = voiceParse.parseVoice()
 
         #Check it for a quit condition.
-        if humanString.lower() == "quit":
+        if humanString.lower() == "bye":
             #If we quit, we log the quit and leave the program.
             addEntry(log, "Conversation ended.")
             sys.exit()
@@ -75,10 +75,14 @@ def mainLoop(robot: cozmo.robot.Robot):
         print("Human says: " + humanString)
 
         for k, v in dictionary.items():
-            if levenstein.minimumEditDistance(humanString, k) < 5:
+            print(k, levenstein.minimumEditDistance(humanString, k))
+            if levenstein.minimumEditDistance(humanString, k) <= 5:
                 found=True
                 cozmoString = v
                 print(v)
+                break
+            print("going back in the for loop")
+
         if found is False:
             cozmoString="I did not understand, please repeat"
 
@@ -98,7 +102,7 @@ log = initLog()
 filename = sys.argv[1]
 print("file name :: ",filename)
 ###
-dictionary = {'start':'Hey All'}
+dictionary = {}
 f = open(filename, "r")
 pair = ''
 #create the dictionary
@@ -119,8 +123,10 @@ while True:
 
     if l2[0] == 'human':
         key = l2[1]
+        #print('human : ',key)
     else:
         pair = l2[1];
+        #print('key : ',pair)
         dictionary[key] = pair
 
 print(dictionary)

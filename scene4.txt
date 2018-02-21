@@ -1,7 +1,6 @@
 human:cozmo
-Cozmo:Why are you skipping questions
-human:I don’t understand the topic fully
-Cozmo:You can talk with Carlos, He finished his homework already, Maybe he can help
-human:Okay.
-Cozmo:This way you can learn from each other
-
+Cozmo:Your reply can stop Jen from asking questions
+human:What am I supposed to do? I answered them already
+Cozmo:She is trying to learn too. Maybe guide her to the materials or explain again.
+human:Okay, I will
+Cozmo:That will be really helpful

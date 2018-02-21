@@ -1,8 +1,6 @@
 human:cozmo
-Cozmo:Hey Carlos, good job on your homework.
-human:thanks
-Cozmo:Some of your friends posted questions on homework. Try answering some.
-human:No problem, but which one?
-Cozmo:you answered question 3 pretty quickly. Go try that one
-human:okay
-Cozmo:you are really helpful
+Cozmo:Carlos, are you sure about the answer
+human:I think so, why
+Cozmo:It’s actually wrong. Do you want to try again?
+human:I will
+Cozmo:Nice
