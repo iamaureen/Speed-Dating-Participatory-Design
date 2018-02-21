@@ -84,7 +84,7 @@ def mainLoop(robot: cozmo.robot.Robot):
             print("going back in the for loop")
 
         if found is False:
-            cozmoString="I did not understand, please repeat"
+            cozmoString="What?"
 
         #Print the response to the screen and add it to the log
         print("Cozmo says: " + cozmoString)

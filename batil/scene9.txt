@@ -1,0 +1,4 @@
+human:cozmo
+Cozmo:Hey Kim, why don’t you help your friends?
+human:I don’t answer much to these
+Cozmo:But helping others will help you to learn too

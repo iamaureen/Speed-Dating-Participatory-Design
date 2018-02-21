@@ -1,5 +1,5 @@
 human:cozmo
-Cozmo:Hi, Victoria! I think there are a few questions that you can help with.
+Cozmo:Victoria! I think there are a few questions that you can help with.
 human:But why? I don’t really want to.
 Cozmo:Try to help your friends learn and you will benefit from it as well.
 human:I understand

@@ -1,4 +1,4 @@
 human:Cozmo
 Cozmo:Victoria, your answer is correct and very helpful, but it’s a bit harsh.
-human:let me rephrase it. How about?
+human:let me rephrase it. How about you should divide both sides by 3 to simplify the ratio?
 Cozmo:Much better!

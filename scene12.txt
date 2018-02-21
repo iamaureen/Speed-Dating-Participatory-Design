@@ -1,6 +1,0 @@
-human:cozmo
-Cozmo:Kim, I see you are skipping questions
-human:I don’t understand the topic, cozmo
-Cozmo:You can talk with Carlos, He finished his homework already, Maybe he can help?
-human:I will ask him
-Cozmo:This way you can learn from each other

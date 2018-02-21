@@ -1,4 +1,4 @@
 human:cozmo
-Cozmo:kim, do you want to try a worked out example to understand ratios?
+Cozmo:James, do you want to try a worked out example to understand ratios?
 human:Yes. I am having trouble sunderstanding the concepts
 Cozmo:You can talk to your friends too

@@ -1,4 +1,6 @@
 human:cozmo
-Cozmo:Hey Kim, why don’t you help your friends?
-human:I don’t answer much to these
-Cozmo:But helping others will help you to learn too
+Cozmo:It is great to see you back! It was a great response.
+human:Thank you cosmo
+Cozmo:You could try another one, this will really help your friends
+human:okay I will
+Cozmo:That’s nice of you.

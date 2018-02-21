@@ -30,7 +30,7 @@ def cozmo_program(robot: cozmo.robot.Robot):
 
     # robot.say_text("i failed").wait_for_completed()
     # robot.play_anim_trigger(cozmo.anim.Triggers.FrustratedByFailure).wait_for_completed()
-    #
+    # robot.say_text("i am sad").wait_for_completed()
     robot.play_anim_trigger(cozmo.anim.Triggers.PeekABooGetOutSad).wait_for_completed()
 
 

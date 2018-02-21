@@ -1,6 +1,6 @@
 human:cozmo
-Cozmo:It is great to see you back! It was a great response.
-human:Thank you cosmo
-Cozmo:You could try another one, this will really help your friends
-human:okay I will
-Cozmo:That’s nice of you.
+Cozmo:Hey, there are some questions that you can answer since you have completed your homework.
+human:But I don’t feel like helping them.
+Cozmo:Your friends could use some help
+human:Somebody will help.
+Cozmo:It is a great practice to learn, too.

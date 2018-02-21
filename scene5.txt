@@ -1,4 +1,6 @@
 human:Cozmo
-cozmo:Carlos, you’re on a roll! You’ve answered a lot of questions in a really friendly and helpful way.
-human:Thanks!
-cozmo:Keep up with the good work!
+Cozmo:Carlos, It’s great that you are trying to help your friends
+human:Thanks
+Cozmo:But most of the answers were not correct. You should check again.
+human:The last topics were hard. I need to revise them again
+Cozmo:You should do that so you can give correct answers

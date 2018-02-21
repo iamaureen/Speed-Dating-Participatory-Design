@@ -1,4 +1,4 @@
 #!/bin/bash
 
-file='scene8.txt'
+file='scene5.txt'
 /usr/local/bin/python3 $(pwd)/Documents/Cozmo/TalkToCozmo/talkcozmo.py $(pwd)/Documents/Cozmo/TalkToCozmo/$file
